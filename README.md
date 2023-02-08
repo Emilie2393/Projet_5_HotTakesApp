@@ -9,6 +9,8 @@ Créer votre compte sur https://account.mongodb.com/account/login. Ensuite, dans
 
 ### Se connecter 
 
+Clonez ce repo
+
 Dans le terminal backend et frontend tapez npm install pour installer nodes_modules
 
 Dans le terminal de backend tapez node server puis entrer/
